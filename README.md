@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🎨 Learning hiw to draw.
+
+- 🐧 New to Linux
+
 <!--
 **lishengxlin/lishengxlin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
