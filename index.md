@@ -10,6 +10,16 @@
 
 [My Pixiv](https://www.pixiv.net/users/20630391),but there is no any artwork.
 
+---
+
+### Todo
+
+- [ ] 不再使用Github's Jekyll来生成这个(些)页面
+
+- [ ] 将gh-pages分支合并到**master**分支
+
+- [ ] *~向Pixiv投稿~*
+
 <!--
 **lishengxlin/lishengxlin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
