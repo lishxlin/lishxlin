@@ -18,7 +18,7 @@
 
 - [ ] 将gh-pages分支合并到**master**分支
 
-- [ ] *~向Pixiv投稿~*
+- [ ] *~向Pixiv投稿~* (markdown-only这个主题竟然不支持删除线！）
 
 <!--
 **lishengxlin/lishengxlin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
