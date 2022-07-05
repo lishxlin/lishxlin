@@ -6,6 +6,16 @@
 
 - 🐧 I’m also a beginner in Linux.
 
+---
+
+我的一些动态在**Issues**页面中
+
+Some of my random thoughts in **Issues** page.
+
+[![Issues Page](https://img.shields.io/badge/Issues%20Page-Send%20me%20to%20there-brightgreen)](https://github.com/lishxlin/lishxlin/issues)
+
+---
+
 ### *想成为一个画可爱女孩子的画师呢~*
 
 [My Pixiv](https://www.pixiv.net/users/20630391),but there is no any artwork.
